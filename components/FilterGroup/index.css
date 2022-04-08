@@ -1,0 +1,31 @@
+/* .filter-group {
+  display: flex;
+} */
+.checkbox {
+  margin-right: 10px;
+}
+.radio {
+  margin-right: 10px;
+}
+.items {
+  padding-bottom: 20px;
+  color: #ffff;
+  list-style-type: none;
+  font-size: 12px;
+}
+.salary-heading {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-size: 16px;
+}
+.salary-list {
+  padding: 0;
+  margin-bottom: 0;
+}
+.line {
+  margin-top: 20px;
+}
+.line-one {
+  margin-top: 10px;
+}

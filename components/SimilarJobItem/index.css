@@ -1,0 +1,9 @@
+.jobs-list-container {
+  background: #272727;
+  border-radius: 12px;
+  padding: 20px;
+  margin-right: 22px;
+}
+.star-rating {
+  display: flex;
+}
